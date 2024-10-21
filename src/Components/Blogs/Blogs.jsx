@@ -11,8 +11,8 @@ const Blogs = () => {
     }, [])
 
     return (
-        <div>
-
+        <div className="w-2/3">
+            <h2>Blogs</h2>
         </div>
     );
 };
